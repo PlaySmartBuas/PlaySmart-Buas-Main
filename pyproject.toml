@@ -1,14 +1,10 @@
 [tool.poetry]
-name = "Packages"
+name = "PlaySmart"
 version = "0.1.0"
+package-mode = false
 description = "Enhancing Performance for the Breda Guardians through Data Analytics"
 authors = [
-    "Imani-jamir Senior <ImaniJamirSenior225619@users.noreply.github.com>",
-    "Vincent van der Beek <112979795+VincentvanderBeek@users.noreply.github.com>",
-    "Mauro van Hulst <112879059+MaurovanHulst@users.noreply.github.com>",
-    "Maikel Boezer <112754865+MaikelBoezer220755@users.noreply.github.com>",
-    "Thomas Pichardo <ThomasPichardo223834@users.noreply.github.com>",
-    "Cédric Verhaegh <CedricVerhaegh221350@users.noreply.github.com>"
+
 ]
 license = "MIT"
 readme = "README.md"

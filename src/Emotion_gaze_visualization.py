@@ -1,4 +1,3 @@
-import sys
 import os
 import pygame
 import tobii_research as tr
@@ -459,4 +458,3 @@ finally:
             print(f"Could not remove output directory: {e}")
  
     print("Gaze and emotion overlay visualization stopped.")
- 
